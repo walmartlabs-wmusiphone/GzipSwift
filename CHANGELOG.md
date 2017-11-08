@@ -2,6 +2,48 @@
 Change Log
 ==========================
 
+4.0.2
+--------------------------
+
+### Fixes
+
+- Fix disabling code coverage support.
+
+
+4.0.1
+--------------------------
+
+### Changes
+
+- Disable code coverage test.
+
+
+4.0.0
+--------------------------
+
+No change since 4.0.0-beta.2.
+
+
+
+4.0.0-beta.2
+--------------------------
+
+### Changes
+
+- Make `CompressionLevel` struct.
+- Make `GzipError` struct.
+
+
+
+4.0.0-beta
+--------------------------
+
+### Changes
+
+- Update project for Xcode 9.
+
+
+
 3.1.4
 --------------------------
 
